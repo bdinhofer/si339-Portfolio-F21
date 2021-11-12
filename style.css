@@ -212,7 +212,12 @@ img.stadium-pic{
 ul.stadium-list{
     list-style: square inside;
     text-align: left;
-    margin-left: 10%;
+    margin-left: 5%;
+    font-size: 15px
+}
+
+ul.stadium-list li{
+    padding-top: 4px;
 }
 
 .knicks-players{
