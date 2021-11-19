@@ -130,7 +130,6 @@ footer{
     bottom: 0;
     width: 100%;
     height: 50px;
-  /*Couldn't get footer to stay at the bottom of the page correctly so I took it out */
 }
 
 .player-pic-div{
@@ -289,7 +288,7 @@ img.stadium-pic{
     text-align:center;
 }
 
-@media screen and (min-width: 800px){
+@media screen and (min-width: 750px){
     .container2{
         grid-template-columns: 1fr 1fr;
         grid-template-rows: repeat(9, auto);
